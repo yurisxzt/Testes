@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 1b99e2c98b58d644491ec0e5d7f9509c
+  productGUID: 19d54b30094eba14494edbf3487b7bf2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Testes Unity 3D
+  productName: My project 3d
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Testes Unity 3D
+  metroPackageName: My project 3d
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Testes Unity 3D
+  metroApplicationDescription: My project 3d
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 2f81a1f1-bfda-41d4-9768-3e97c63b3f50
+  cloudProjectId: e0365c6b-60fc-4008-9124-697111081786
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Testes Unity 3D
+  projectName: My project 3d
   organizationId: yurisxzt
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
